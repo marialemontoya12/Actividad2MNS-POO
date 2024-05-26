@@ -1,5 +1,7 @@
 /*
- * Este código fue desarrollado por [nombre del equipo] como parte de la actividad [número de actividad].
+ * Este código fue desarrollado por el equipo de trabajo (Maria Alejandra Montoya, Natalia Betncur y Sebastian Gonzalez)
+ *  como parte de la actividad [número de actividad].
+ *
  * Declaramos que todo el código fuente es original y no fue copiado de ninguna fuente externa.
  *
  * Se utilizó ChatGPT de OpenAI para obtener orientación sobre la estructura y la implementación de ciertas partes del código.
