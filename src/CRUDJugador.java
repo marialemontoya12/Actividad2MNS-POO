@@ -13,7 +13,7 @@ public class CRUDJugador {
     public void menu() {
         int opcion = 0;
         do {
-            System.out.println("1. Ingresar un nuevo jugador");
+            System.out.println("1. Ingresar un jugador");
             System.out.println("2. Elimina un jugador");
             System.out.println("3. Busca un jugador");
             System.out.println("4. Edita la informacion de un jugador");
