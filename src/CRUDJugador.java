@@ -18,7 +18,7 @@ public class CRUDJugador {
             System.out.println("3. Busca un jugador");
             System.out.println("4. Edita la informacion de un jugador");
             System.out.println("5. Ver listado de jugadores");
-            System.out.println("6. Quieres Salir?");
+            System.out.println("6. ¿Quieres Salir?");
             System.out.print("Seleccione la opción que necesita: ");
             opcion = scanner.nextInt();
             scanner.nextLine(); // Limpiar el buffer
